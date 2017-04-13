@@ -6,3 +6,4 @@
 2. tensorflow
 3. PyAutoGUI
 4. numpy
+5. pyscreenshot
